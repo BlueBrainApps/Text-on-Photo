@@ -22,7 +22,7 @@ You may also share data using the Application’s Share function.
 
 <b>Third-Party Advertisements</b>
 
-You have downloaded OLA Text On Photo,the Application uses Google, a third party vendor, to serve advertisements 
+You have downloaded Text On Photo,the Application uses Google, a third party vendor, to serve advertisements 
 in the Application, using the AdMob system . By using the Application, 
 you consent to the delivery of these advertisements and any data collected by Google, as per the 
 Privacy Policy of AdMob.
