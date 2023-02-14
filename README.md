@@ -1,7 +1,7 @@
 
 <h1>Privacy Policy </h1>
 
-Thank you for downloading Text On Photo.It is the policy of  Text On Photo to respect your privacy, 
+Thank you for downloading Photoholic: Easy photo editor.It is the policy of  Text On Photo to respect your privacy, 
 and the privacy of all users of our applications. 
 This Privacy Policy (the “Policy”) has been established to help you understand our commitment to protecting 
 your privacy, and the steps we take to ensure it.
@@ -9,8 +9,8 @@ your privacy, and the steps we take to ensure it.
 
 <b>No Collection of Personal Information</b>
 
-Text On Photo does not gather any of your personal information 
-while you are using the Application.Under no circumstances does Text On Photo collect, download or 
+Photoholic: Easy photo editor does not gather any of your personal information 
+while you are using the Application. Under no circumstances does Photoholic: Easy photo editor collects, downloads or 
 otherwise make copies of any recordings you make using the Application
 
 <b>General Information Transfer</b>
@@ -22,7 +22,7 @@ You may also share data using the Application’s Share function.
 
 <b>Third-Party Advertisements</b>
 
-You have downloaded Text On Photo,the Application uses Google, a third party vendor, to serve advertisements 
+You have downloaded Photoholic: Easy photo editor,the Application uses Google, a third party vendor, to serve advertisements 
 in the Application, using the AdMob system . By using the Application, 
 you consent to the delivery of these advertisements and any data collected by Google, as per the 
 Privacy Policy of AdMob.
@@ -31,26 +31,6 @@ Privacy Policy of AdMob.
 <b>Children’s Privacy</b>
 
 This App is for a general audience. This app do not address anyone under the age of 13. I do not collect any personally information from children under 13.
-
-<b>Permissions</b>
-
-The following is a complete listing and description of what functions on the Device are 
-accessed and / or modified by the Application. 
-
-WRITE EXTERNAL STORAGE:
-Allows an application to write to external storage.
-
-
-WRITE SETTINGS:
-Allows an application to read or write the system settings.
-
-
-VIEW NETWORK CONNECTIONS:
-Allows applications to open network sockets and access information about networks.
-
-
-RECEIVE_BOOT_COMPLETED:
-Allows an application to receive the ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting.
 
 
 <b>Contact</b>
